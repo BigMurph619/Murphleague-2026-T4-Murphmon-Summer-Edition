@@ -37,46 +37,54 @@ Competitors will also earn "League Points" towards the MurphLeague according to 
 
 ## Point Breakdown
 All points are worth 1 point unless denoted by (). 
-|           Points          | 
-| :-----------------------: | 
-| Lab                       |
-| Rival #2                  |
-| Brock (3)                 |
-| Mt. Moon Entry            | 
-| Mt. Moon Exit             | 
-| Bridge Rival              | 
-| Rescue Bill               |
-| Misty                     |
-| SS Anne Rival             |
-| SS Anne Full Clear (2)    |
-| Lt. Surge                 |
-| Exit Rock Tunnel (2)      |
-| Defeat Gio in Hideout (2) |
-| Tower Rival               |
-| Rescue Fuji               |
-| Erika (2)                 |
-| Level up pivot 2 levels   |
-| Cycling Road Full Clear * |
-| Koga Attempt              |
-| Koga Defeat (2)           |
-| Dojo                      |
-| Silph Rival               |
-| Silph Gio                 |
-| Silph Full Clear          |
-| Sabrina                   |
-| Blaine                    |
-| Complete Sevii quest      |
-| Gio                       |
-| Pre-VR Rival              |
-| Lorelei                   |
-| Bruno                     |
-| Agatha (2)                |
-| Lance (2)                 |
-| Champ (3)                 |
+|           Points                                  |
+| :-----------------------------------------------: |
+| Rival |
+| Petalburg Woods Aqua Grunt                        |
+| Save Birb |
+| Roxanne (2)                                       |
+| Rustboro Rival (Optional)                         |
+| Soda Pop Shack Full Clear (Optional)              |
+| Brawley (2)                                       |
+| Cycling Road Rival                                |
+| Mauville Wally                                    |
+| Defeat Macho Brace Family    (Optional)           |
+| Cycling road Full Clear (Not a dungeon but includes psychic underneath)|                              |
+| Wattson                                           |
+| Speak to Cosmo |
+| Mt. Chimney Maxie  Attempt                        |
+| Maxie Win |
+| Flannery                                          |
+| Dad (2)                                           |
+| Full Clear Weather Institute  (Optional)          |
+| Weather Institute Rival                           |
+| Safari entry (with pokeblock case) (2)        |
+| Level up pivot 2 levels |
+| Lilycove Rival                                    |
+| Mt. Pyre Aqua Clear                               |
+| Mt. Pyre full clear  (Optional)(Includes the double)      |
+| Winona                                            |
+| Magma Hideout Maxie                               |
+| Magma Hideout Full Clear (Optional)               |
+| Aqua Hideout Sub Guard |
+| Aqua Hideout Full Clear (Optional)                |
+| Level 80                                          |
+| Tate and Liza (2)                                |
+| Maxie Doubles Fight                               |
+| Archie Underwater Hideout                         |
+| Juan                                              |
+| Wally                                             |
+| Full Clear VR  (Optional)                         |
+| Sidney                                            |
+| Phoebe                                            |
+| Glacia (2)                                        |
+| Drake (2)                                         |
+| Wallace (3)                                       |
+| Steven (5)                                        |
 
-*Only eligible after Safari Pivot
+*All points listed after Safari are only eligble with pivot
 
- > 45 Points available 
+ > 55 Points available 
 
  > Tiebreakers will be decided as follows: most wins, furthest run, most Safari visits, lowest BST Safari visit, coinflip.
 
