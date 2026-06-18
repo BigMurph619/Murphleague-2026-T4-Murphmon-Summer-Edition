@@ -6,7 +6,7 @@
 
 [MurphLeague 2026](https://github.com/BigMurph619/Murphleague-2026) Tourney #4 is Emerald Murphmon - Summer Edition. Base rules and information found [here](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/1.GameModes/Murphmon). 
 
-Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It aims to be a bit easier and faster while adding more decision making opportunities to the game. Murphmon can be played 10 different ways, all of which remain officially unbeaten in their base rulesets. Many rules and settings are mindfully adapted for tournament play and the game is intended to be challenging but beatable.
+Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It aims to be a bit easier and faster while adding more decision making opportunities to the game. Murphmon can be played 10 different ways, all of which remain officially unbeaten in their base rulesets. Many rules and settings are mindfully adapted for tournament play and the game is intended to be challenging but beatable. Base rules found [here](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/1.GameModes/Murphmon)
 
 "Summer Edition" will feature a pool of 7 Summer Themed 'Tune-ups'. Competitors will be given 3 'Tuning Tokens' per seed that they may spend on Tune-Ups. 
 
