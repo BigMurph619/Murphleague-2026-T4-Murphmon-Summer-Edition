@@ -13,13 +13,13 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 This Season's Tune-Ups are:
 |         Tune-Ups          | Details |
 |-|-|
-| Harvester | May grab 1 tree of berries from each soil patch en route to safari. Pre-pivot only. |           
-| Hydration  | May use drink heals outside of battle until Safari. |
-| Vacation | Re-rando Counts as 3 tune-ups early game. If used at Safari, must have 6 pivots locked in...no more catches. |
+| Harvester | You may grab 1 tree of berries from each soil patch en route to safari. Collection cutoff is the Safari building. Berries may be used on pre- and/or post-pivot mons. |           
+| Hydration  | You may use drink heals outside of battle until Safari. (Fresh water, Soda Pop, Lemonade, Berry Juice)|
+| Vacation | Re-randomize the seed! Hard save in game, set your attempts back 1, and re-roll the seed prior to fighting the first aqua grunt. Vacation counts as 3 tune-ups in the early game pivot. If used at Safari, only counts as 1 tune-up. However, you must have 6 pivots locked in BEFORE using Vacation. No further catches are allowed after Vacationing (i.e. searching for shinies/favorites) |
 | Band Camp   | Unlock all flutes and bells for mons with a quad weakness.  |
-| Gone Surfing   | May use Surf with Safari pivot that is under 500 BST and not water type |
-| Farmer's Market  |  You may purchase vitamins from the Slateport market, all one transaction before going north. |
-| No Hoenn Around | Forego early pivot options to gain 3 more wild exp kills. No favorites. Commit point first youngster. |
+| Gone Surfin'   | You may teach and use Surf in battle with a Safari pivot that is under 500 BST and not water type |
+| Farmer's Market  |  You may purchase a bundle of vitamins from the Slateport market, must be all one transaction and before going north. |
+| No Hoenn Around | You may forego early pivot options to gain 3 more wild exp kills. No favorites/shiny exceptions. You must commit to this tune-up and obtain your additional EXP prior to the first youngster fight. |
 
 # Tourney Details
 
@@ -91,10 +91,10 @@ All points are worth 1 point unless denoted by ().
 |        Bonus Points       |
 | :-----------------------: |
 | Any Pokemon that is 440 BST or lower will accumulate DOUBLE points. If the Pokemon is evolved into over 440 BST it will resume receiving standard points. |
-| Tour de Murph - Fastest mach bike time (3 tries each run). Each run that makes it to cycling road will give you 3 tries to record your best time on the Mach Bike. Must be done at %100 speed. At the end of the tourney, whoever has the fastest time (confirmed with a clip) will earn 3 bonus tourney point. If multiple competitors earn a perfect 9.15, they will each earn the 3 bonus points. |
-| Pitching a Tent - Earn 1 bonus point for clearing Slateport tent. Must use lowest BST team option. Also fallarbar? |
+| Tour de Murph - Fastest mach bike time (3 tries each run). Each run that makes it to cycling road will give you 3 tries to record your best time on the Mach Bike. Must be done at %100 game speed. At the end of the tourney, whoever has the fastest time (confirmed with a clip) will earn 3 bonus tourney points. If multiple competitors earn a perfect 9.15, they will each earn the 3 bonus points. |
+| Pitching a Tent - Earn 1 bonus point for clearing the Slateport tent. You must use the lowest BST team combination option. You may keep the full heal. 1 attempt per seed. |
 | Fissure!? I just met her! - Receive Fissure as a TM or move learner option in any seed and earn 1 bonus point. |
-| Sunset Roulette - Play Roulette and select 1 square. Each roll, the the points set lower and lower. Play all 6 balls. If first try 6 points, if 2nd 5 points, etc. |
+| Sunset Roulette - Play Roulette and select 1 square (i.e. Green Skitty). Play all 6 balls or until you hit your guess. If you hit on the first try 6 points, if 2nd 5 points, 3rd 4 points, etc. If you do not hit within your 6 balls, better luck next time! |
 
 
 Good Luck Challengers.
